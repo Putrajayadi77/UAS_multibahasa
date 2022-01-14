@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">putra jayadi</string>
+    // Layout
+    <string name="pilih_gambar">(Tekan gambar untuk membuka galeri)</string>
+    <string name="go_back">Kembali</string>
+    <string name="daftar_ras_judul">Animal Race List</string>
+    <string name="logo">TOGETHER 2</string>
+    <string name="makanan">TOGETHER 1</string>
+    <string name="negara">TOGETHER 3</string>
+    <string name="logo_list_title">Daftar Ras Harimau</string>
+    <string name="makanan_list_title">Daftar Ras Singa</string>
+    <string name="negara_list_title">Daftar Ras Kupu-Kupu</string>
+    <string name="biodata">Tekan Gambar di bawah unntuk melihat biodata pembuat</string>
+    <string name="Klik">Klik Untuk Liat Gambar</string>
+    //biodata
+    <string name="biodata_saya">biodata</string>
+    <string name="Nama">Nama : putra jayadi</string>
+    <string name="Nim">NIM : 200602087</string>
+    <string name="Hobi">Hobi : nonton liga eropa</string>
+    <string name="Prodi">Prodi : Teknik Informatika</string>
+
+
+    // Data logo
+    <string name="instagram_nama">instagram</string>
+    <string name="instagram_asal">meta</string>
+    <string name="instagram_deskripsi">logo ini berasal dari meta grub</string>
+    <string name="indosat_nama">indosat</string>
+    <string name="indosat_asal">Indonesia</string>
+    <string name="indosat_deskripsi">logo ini berasal dari indonesia</string>
+    <string name="spotify_nama">spotify</string>
+    <string name="spotify_asal">Cina</string>
+    <string name="spotify_deskripsi">logo ini berasal dari china mungkin</string>
+    <string name="shoope_nama">shoope</string>
+    <string name="shoope_asal">singapura</string>
+    <string name="shoope_deskripsi">logo ini berasal dari singapura</string>
+    <string name="twiter_nama">twiter</string>
+    <string name="twiter_asal">meta</string>
+    <string name="twiter_deskripsi">logo ini berasal dari meta grub</string>
+    <string name="youtube_nama">youtube </string>
+    <string name="youtube_asal">amerika</string>
+    <string name="youtube_deskripsi">logo ini berasal dari meta grub</string>
+    // Data makanan
+    <string name="bakso_nama">bakso</string>
+    <string name="bakso_asal">selong</string>
+    <string name="bakso_deskripsi">makanan yang banyak tersebar di indonesia</string>
+    <string name="pempek_nama">pempek</string>
+    <string name="pempek_asal">palembang</string>
+    <string name="pempek_deskripsi">Makanan khas palembang yang terbuat dari berbagi marterial</string>
+    <string name="sate_nama">sate</string>
+    <string name="sate_asal">padang</string>
+    <string name="sate_deskripsi">makanan yang mempunyai banyak varian</string>
+    <string name="rendang_nama">rendang</string>
+    <string name="rendang_asal">kabar</string>
+    <string name="rendang_deskripsi">daging yang di masak dan di jadikan rendang</string>
+    <string name="gudeg_nama">gudeg</string>
+    <string name="gudeg_asal">bandung</string>
+    <string name="gudeg_deskripsi">makan yang berasal dari bandung mungkin</string>
+    <string name="rawon_nama">rawon</string>
+    <string name="rawon_asal">bandung</string>
+    <string name="rawon_deskripsi">makanan yang populer di daerah bandung</string>
+    // data negara
+    <string name="inggris_nama">inggris</string>
+    <string name="inggris_asal">eropa</string>
+    <string name="inggris_deskripsi">negara yang terlatak di benua eropa</string>
+    <string name="vietnam_nama">vietnam</string>
+    <string name="vietnam_asal">Asia</string>
+    <string name="vietnam_deskripsi">negara yang terlatak di benua asia </string>
+    <string name="peru_nama">peru</string>
+    <string name="peru_asal">eropa</string>
+    <string name="peru_deskripsi">negara yang terlatak di benua eropa</string>
+    <string name="kanada_nama">kanada</string>
+    <string name="kanada_asal">eropa</string>
+    <string name="kanada_deskripsi">negara yang terlatak di benua eropa</string>
+    <string name="filipina_nama">filipina</string>
+    <string name="filipina_asal">asia</string>
+    <string name="filipina_deskripsi">negara yang terlatak di benua asia </string>
+    <string name="australia_nama">australia </string>
+    <string name="australia_asal">eropa</string>
+    <string name="australia_deskripsi">negara yang terlatak di benua eropa</string>
+
+</resources>

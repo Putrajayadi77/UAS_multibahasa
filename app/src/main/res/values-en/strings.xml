@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lion Tiger and Butterfly</string>
+    //layout
+    <string name="pilih_gambar">(Select image to open gallery)</string>
+    <string name="daftar_ras_judul">Animal Race List</string>
+    <string name="go_back">Kembali</string>
+    <string name="logo">Tiger</string>
+    <string name="makanan">Lion</string>
+    <string name="negara">Butterfly</string>
+    <string name="logo_list_title">Tiger Race List</string>
+    <string name="makanan_list_title">Lion race List</string>
+    <string name="negara_list_title">Butterfly race List</string>
+    <string name="biodata">CLICK to see what was made</string>
+    <string name="Klik">Click To See Image</string>
+    //biodata
+    <string name="biodata_saya">Biography</string>
+    <string name="Nama">Name : Muhammad Azizan</string>
+    <string name="Nim">NIM : 200602134</string>
+    <string name="Hobi">Hobbies: Motion graphic</string>
+    <string name="Prodi">Department : Informatics Engineering</string>
+    // Data Harimau
+    <string name="instagram_nama">instagram</string>
+    <string name="instagram_asal">meta</string>
+    <string name="instagram_deskripsi">this logo is from meta grub</string>
+    <string name="indosat_nama">Indosat</string>
+    <string name="indosat_asal">Indonesia</string>
+    <string name="indosat_deskripsi">This logo is from Indonesia</string>
+    <string name="spotify_nama">spotify</string>
+    <string name="spotify_asal">China</string>
+    <string name="spotify_deskripsi">this logo is from china maybe</string>
+    <string name="twiter_nama">twiter</string>
+    <string name="twiter_asal">meta</string>
+    <string name="twiter_deskripsi">this logo is from meta grub</string>
+    <string name="shoope_nama">shoope</string>
+    <string name="shoope_asal">singapore</string>
+    <string name="shoope_deskripsi">this logo is from singapore</string>
+    <string name="youtube_nama">youtube </string>
+    <string name="youtube_asal">America</string>
+    <string name="youtube_deskripsi">this logo is from meta grub</string>
+    // Data makanan
+    <string name="bakso_nama">meatball</string>
+    <string name="bakso_asal">selong</string>
+    <string name="bakso_deskripsi">food that is widely spread in Indonesia</string>
+    <string name="pempek_nama">pempek</string>
+    <string name="pempek_asal">palembang</string>
+    <string name="pempek_deskripsi">Palembang typical food made from sharing materials</string>
+    <string name="sate_nama">satay</string>
+    <string name="sate_asal">padang</string>
+    <string name="sate_deskripsi">food that has many variants</string>
+    <string name="rendang_nama">rendang</string>
+    <string name="rendang_asal">kabar</string>
+    <string name="rendang_deskripsi">meat that is cooked and made into rendang</string>
+    <string name="gudeg_nama">gudeg</string>
+    <string name="gudeg_asal">bandung</string>
+    <string name="gudeg_deskripsi">eat from Bandung maybe</string>
+    <string name="rawon_nama">rawon</string>
+    <string name="rawon_asal">bandung</string>
+    <string name="rawon_deskripsi">popular food in bandung area</string>
+    // data negara
+    <string name="inggris_nama">inggris</string>
+    <string name="inggris_asal">europe</string>
+    <string name="inggris_deskripsi"> a country located on the continent of Europe</string>
+    <string name="vietnam_nama">vietnam</string>
+    <string name="vietnam_asal"> Asia</string>
+    <string name="vietnam_deskripsi">a country located on the continent of asia</string>
+    <string name="peru_nama">peru Butterfly</string>
+    <string name="peru_asal">europe</string>
+    <string name="peru_deskripsi">a country located on the continent of Europe.</string>
+    <string name="kanada_nama">kanada</string>
+    <string name="kanada_asal">europe</string>
+    <string name="kanada_deskripsi">a country located on the continent of Europe.</string>
+    <string name="filipina_nama">filipina</string>
+    <string name="filipina_asal">asia</string>
+    <string name="filipina_deskripsi">a country located on the continent of asia</string>
+    <string name="australia_nama">ausralia </string>
+    <string name="australia_asal">europe</string>
+    <string name="australia_deskripsi"> a country located on the continent of Europe.</string>
+
+</resources>
